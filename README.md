@@ -21,8 +21,8 @@ More about BWS at https://blog.bitpay.com/announcing-the-bitcore-wallet-suite/
 
 # Getting Started
 ```
- git clone https://github.com/bitpay/bitcore-wallet-service.git
- cd bitcore-wallet-service && npm start
+ git clone https://github.com/RaptureCore/bitcore-wallet-service-rapture.git
+ cd bitcore-wallet-service-rapture && npm start
 ```
 
 
@@ -245,8 +245,3 @@ Required Arguments:
 
 ## DELETE Endpoints
 `/v2/pushnotifications/subscriptions/`: Remove subscriptions for push notifications service from database.
-
- 
-
-
-
